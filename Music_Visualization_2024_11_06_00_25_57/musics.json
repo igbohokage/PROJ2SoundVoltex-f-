@@ -1,0 +1,52 @@
+{
+  "musics": [
+    {
+      "title": "Death Bed",
+      "artist": "Powfu",
+      "artwork": "death-bed.jpg",
+      "url": "Death Bed.mp3",
+      "date": "2020",
+      "id": "1"
+    },
+    {
+      "title": "Bad Liar",
+      "artist": "Imagine Dragons",
+      "artwork": "bad-liar.jpg",
+      "url": "Bad Liar.mp3",
+      "date": "2018",
+      "id": "2"
+    },
+    {
+      "title": "Faded",
+      "artist": "Alan Walker",
+      "artwork": "faded.jpg",
+      "url": "Faded.mp3",
+      "date": "2015",
+      "id": "3"
+    },
+    {
+      "title": "Hate Me",
+      "artist": "Ellie Goulding",
+      "artwork": "hate-me.jpg",
+      "url": "Hate Me.mp3",
+      "date": "2019",
+      "id": "4"
+    },
+    {
+      "title": "Solo",
+      "artist": "Clean Bandit",
+      "artwork": "solo.jpg",
+      "url": "Solo.mp3",
+      "date": "2018",
+      "id": "5"
+    },
+    {
+      "title": "Without Me",
+      "artist": "Halsey",
+      "artwork": "without-me.jpg",
+      "url": "Without Me.mp3",
+      "date": "2020",
+      "id": "6"
+    }
+  ]
+}
